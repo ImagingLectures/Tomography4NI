@@ -1,6 +1,6 @@
 # Lectures
 ## Introduction to computed tomography 
-
+[Slides](https://imaginglectures.github.io/Tomography4NI/TomoPrinciple.pdf)
 ## Bimodal imaging 
 
 
