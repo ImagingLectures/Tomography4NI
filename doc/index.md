@@ -11,3 +11,8 @@ There will be a support session on monday (May 17th) evening if you need help wi
 ## Installing MuhRec
 - Download the latest release of MuhRec from the [repository](https://github.com/neutronimaging/imagingsuite/releases)
 - Follow the [installation instructions](https://github.com/neutronimaging/imagingsuite/wiki/User-manuals-MuhRec-Installation)
+
+## Download data
+The tutorial will be using a data set which you can [download here](https://data.mendeley.com/datasets/g5snr785xy/2)
+
+
