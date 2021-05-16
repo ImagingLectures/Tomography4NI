@@ -7,7 +7,7 @@ This lecture is an introduction to computed tomography with some basic theory an
 
 | Downloads| 
 |:---:|
-|<a href="https://imaginglectures.github.io/Tomography4NI/TomoPrinciple.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> |
+|<a href="https://imaginglectures.github.io/Tomography4NI/TomoPrinciple.pdf"><img src="figures/np_presentation.svg" height="40px"/></a> |
 
 ## Bimodal imaging 
 A single modality provides a single view of the samples, which may lead to ambuguous readings that are harder to interpret. By adding a more contrast modalities, it is possible to reduce some of the problems that may appear during e.g segmentation.
