@@ -14,7 +14,7 @@ A single modality provides a single view of the samples, which may lead to ambug
 
 | Downloads| 
 |:---:|
-| <a href="https://imaginglectures.github.io/Tomography4NI/Kaestner_BimodalExperiments.pdf"><img src="figures/np_presentation.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Tomography4NI/blob/main/lectures/BimodalImaging/BimodalExperiments.ipynb) &nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Tomography4NI/blob/main/lectures/BimodalImaging/BimodalExperiments.ipynb)  | 
+| <a href="https://imaginglectures.github.io/Tomography4NI/Kaestner_BimodalExperiments.pdf"><img src="figures/downloadbook.svg" height="40px"/></a> &nbsp;&nbsp;&nbsp;[<img src="https://upload.wikimedia.org/wikipedia/commons/3/38/Jupyter_logo.svg" height="50px"/>](https://nbviewer.jupyter.org/github/ImagingLectures/Tomography4NI/blob/main/lectures/BimodalImaging/BimodalExperiments.ipynb) &nbsp;&nbsp; [<img src="figures/np_presentation.svg" height="50px"/>](https://nbviewer.jupyter.org/format/slides/github/ImagingLectures/Tomography4NI/blob/main/lectures/BimodalImaging/BimodalExperiments.ipynb)  | 
 
 # Tutorial
 The reconstruction tutorial will be using the CT reconstruction tool MuhRec which you will have to install in advance.
